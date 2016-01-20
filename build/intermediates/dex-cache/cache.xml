@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cat7/Desktop/ParseTopGames/app/libs/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/Users/cat7/Desktop/ParseTopGames/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-65dc38844c6de54f711800bce5a743d459e37f71.jar" />
+    </item>
+    <item
+        jar="/Users/cat7/Desktop/ParseTopGames/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/cat7/Desktop/ParseTopGames/app/build/intermediates/pre-dexed/debug/classes-900094ee3824b0153d54720c02bb12369cbfe1bf.jar" />
+    </item>
+    <item
+        jar="/Users/cat7/Desktop/ParseTopGames/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/cat7/Desktop/ParseTopGames/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-38c67b607aa6c72ae6f3aa86f53210251669d487.jar" />
+    </item>
+    <item
+        jar="/Users/cat7/Desktop/ParseTopGames/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/cat7/Desktop/ParseTopGames/app/build/intermediates/pre-dexed/debug/classes-bd9c5f6bba9cb901ba0675193c2a235b156f8ee0.jar" />
+    </item>
+    <item
+        jar="/Users/cat7/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/cat7/Desktop/ParseTopGames/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-1473b4af81d4c414db413537cc7193de1a2d7efd.jar" />
+    </item>
+    <item
+        jar="/Users/cat7/Desktop/ParseTopGames/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/cat7/Desktop/ParseTopGames/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-d00eefd436b54edcae7736d2d41a3201473ebb73.jar" />
+    </item>
+    <item
+        jar="/Users/cat7/Desktop/ParseTopGames/app/libs/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/cat7/Desktop/ParseTopGames/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-975bf7e961ab7530fd192a5969804ec9c58f86b1.jar" />
+    </item>
+
+</items>

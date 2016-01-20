@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ParseTopGames</string>
+    <string name="title_activity_apps">Apps Activity</string>
+    <string name="title_activity_sign_up">SignUp Activity</string>
+    <string name="empty"></string>
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="e_mail">Email</string>
+    <string name="passwd">Password</string>
+    <string name="c_passwd">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="log_in">Log In</string>
+    <string name="cnacc">Create New Account</string>
+    <string name="view_all">View All</string>
+    <string name="view_fav">View Favorites</string>
+    <string name="clear_fav">Clear Favorites</string>
+    <string name="view_shar">View Shared</string>
+    <string name="clear_shar">Clear Shared</string>
+    <string name="logout">Log Out</string>
+    <string name="title_activity_preview">Preview Activity</string>
+    <string name="title_activity_web_view">WebView Activity</string>
+
+</resources>

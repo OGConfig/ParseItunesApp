@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/item1" android:title="@string/view_all"></item>
+        <item android:id="@+id/item2" android:title="@string/view_fav"></item>
+        <item android:id="@+id/item3" android:title="@string/clear_fav"></item>
+        <item android:id="@+id/item4" android:title="@string/view_shar"></item>
+        <item android:id="@+id/item5" android:title="@string/clear_shar"></item>
+        <item android:id="@+id/item6" android:title="@string/logout"></item>
+    </menu>
